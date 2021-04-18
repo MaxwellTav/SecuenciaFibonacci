@@ -1,0 +1,10 @@
+C:\Users\maxwe\source\repos\FibonacciSecuence\obj\Debug\FibonacciSecuence.csprojAssemblyReference.cache
+C:\Users\maxwe\source\repos\FibonacciSecuence\obj\Debug\FibonacciSecuence.Form1.resources
+C:\Users\maxwe\source\repos\FibonacciSecuence\obj\Debug\FibonacciSecuence.Properties.Resources.resources
+C:\Users\maxwe\source\repos\FibonacciSecuence\obj\Debug\FibonacciSecuence.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\FibonacciSecuence\obj\Debug\FibonacciSecuence.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\FibonacciSecuence\bin\Debug\FibonacciSecuence.exe.config
+C:\Users\maxwe\source\repos\FibonacciSecuence\bin\Debug\FibonacciSecuence.exe
+C:\Users\maxwe\source\repos\FibonacciSecuence\bin\Debug\FibonacciSecuence.pdb
+C:\Users\maxwe\source\repos\FibonacciSecuence\obj\Debug\FibonacciSecuence.exe
+C:\Users\maxwe\source\repos\FibonacciSecuence\obj\Debug\FibonacciSecuence.pdb
